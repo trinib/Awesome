@@ -1123,6 +1123,13 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [DopplerTask](https://github.com/dopplertask/dopplertask) - A revolutionary open-source automation tool 
 - [Find-you](https://github.com/positive-security/find-you) - A stealth AirTag clone that bypasses all of Apple's tracking protection features
 - [flameshot](https://flameshot.org) **nice**
+  ````shell
+  flatpak install flameshot
+  
+  # Permission bug when using flatpak on Linux. To fix make a startup script and run this.
+  # https://blog.plip.com/2025/04/25/flameshot-wayland-multi-monitors-in-apr-2025/
+  flatpak permission-set screenshot screenshot org.flameshot.Flameshot yes
+  ```` 
 - [GoAlert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert.
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing s and other similar functionality.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
