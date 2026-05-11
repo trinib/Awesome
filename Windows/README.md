@@ -2,6 +2,26 @@
 
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - 💻 🎉 An awesome & curated list of best applications and tools for Windows.
 
+## Activate Windows 11 for free
+- [source](https://www.guidingtech.com/how-to-activate-windows-11-for-free/)
+```shell
+# 1. Open cmd as admin and run:   slmgr /ipk  <KEY>     using one of the following keys:
+Windows Home:        TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+Windows Home N:      3KHY7-WNT83-DGQKR-F7HPR-844BM
+Windows Pro:         W269N-WFGWX-YVC9B-4J6C9-T83GX
+Windows Pro N:       MH37W-N47XK-V7XM9-C7227-GCQG9
+Windows Education:   NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+Windows Education N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+
+# Example
+slmgr /ip 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+
+# 2. Run:
+slmgr /skms kms.msguides.com
+
+# 3. Run
+slmgr /ato
+```
 
 ## Anti-Virus and Anti-Rootkit
 - [OpenArk](https://github.com/BlackINT3/OpenArk) - OpenArk is an open source anti-rookit(ARK) tool for Windows [openark.blackint3.com](https://openark.blackint3.com).
