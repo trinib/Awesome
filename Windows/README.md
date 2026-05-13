@@ -14,7 +14,7 @@ Windows Education:   NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
 Windows Education N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
 
 # Example
-slmgr /ip 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+slmgr /ipk 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
 
 # 2. Run:
 slmgr /skms kms.msguides.com
