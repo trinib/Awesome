@@ -46,6 +46,7 @@ slmgr /ato
 - [TraceWrangler - Packet Capture Toolkit](https://www.tracewrangler.com)
 
 ## Productivity
+- Auto login in VMs - https://docs.microsoft.com/en-us/sysinternals/downloads/autologon
 - [GreenShot](https://github.com/greenshot/greenshot) - Greenshot is a light-weight screenshot software tool for Windows. [https://getgreenshot.org/](https://getgreenshot.org/)
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity. PowerShell/CMD `winget install Microsoft.PowerToys --source winget`
 - [WinDirStat](https://windirstat.net/) - Visualize big files on any harddisk. Very helpful when the disk is running low on space.
